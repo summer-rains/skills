@@ -11,7 +11,8 @@
   `my-generations` / `uploads`，`@58pic/cli ≥ 0.2.0`）
   - `SKILL.md` + `references/troubleshooting.md`
   - 同步进 `plugins/58pic-ai/skills/58pic-library/`
-- `README.md`：可用 skill 表 + `npx skills add` 列表补 `58pic-library`
+- `README.md`：可用 skill 表 / `npx skills add` 列表 / Quick start 示例 / "The skills will" / Docs 链接，
+  五处均补 `58pic-library`
 - `plugins/58pic-ai/.codex-plugin/plugin.json`：version `0.2.0 → 0.3.0`，
   description / longDescription / capabilities / defaultPrompt 补 library
 

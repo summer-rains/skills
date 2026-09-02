@@ -59,13 +59,14 @@ After installing, invoke the skill in your AI IDE:
 /58pic-assets search Spring Festival poster templates
 /58pic-models list image models
 /58pic-account check my credits
+/58pic-library list my favorite folders and my recent AI creations
 /58pic-workflow list my workflows and inspect the canvas before editing
 ```
 
 The skills will:
 1. Check / install the `58pic` CLI automatically
 2. Guide you through authentication (API Key or OAuth)
-3. Route generation, asset search, model discovery, and account tasks to focused workflows
+3. Route generation, asset search, model discovery, account, and "my data" (favorites / downloads / generation history) tasks to focused workflows
 
 ## Authentication
 
@@ -82,6 +83,7 @@ Get your API Key at: https://ai.58pic.com/open-platform
 - [58pic-assets skill](./58pic-assets/SKILL.md)
 - [58pic-models skill](./58pic-models/SKILL.md)
 - [58pic-account skill](./58pic-account/SKILL.md)
+- [58pic-library skill](./58pic-library/SKILL.md)
 - [58pic-workflow tutorial](./58pic-workflow/SKILL.md)
 - [Model selection](./58pic-generate/references/model-selection.md)
 - [Troubleshooting](./58pic-generate/references/troubleshooting.md)
