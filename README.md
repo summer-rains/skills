@@ -11,6 +11,7 @@ Install into Claude Code / compatible AI IDEs with one command.
 | [`58pic-assets`](./58pic-assets/SKILL.md) | Search and download stock assets, photos, templates, and design resources |
 | [`58pic-models`](./58pic-models/SKILL.md) | List AI models and inspect model capabilities |
 | [`58pic-account`](./58pic-account/SKILL.md) | Configure CLI auth, API keys, OAuth login, and credits |
+| [`58pic-library`](./58pic-library/SKILL.md) | Look up your favorite folders, download history, AI generation history, and upload records |
 | [`58pic-workflow`](./58pic-workflow/SKILL.md) | Create, preserve, save, and run 千图工作流 canvases |
 
 ## Install
@@ -39,6 +40,7 @@ npx skills add 58pic-open/skills/58pic-generate
 npx skills add 58pic-open/skills/58pic-assets
 npx skills add 58pic-open/skills/58pic-models
 npx skills add 58pic-open/skills/58pic-account
+npx skills add 58pic-open/skills/58pic-library
 npx skills add 58pic-open/skills/58pic-workflow
 ```
 
